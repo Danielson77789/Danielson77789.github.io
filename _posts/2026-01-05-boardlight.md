@@ -9,7 +9,7 @@ tags: [htb]
 
 ## Nmap Scans
 ### default nmap scan - 
-![Default Nmap Scan](/assets/img/markdown_images/BoardLightMedia/Pasted image 20240605004604.png)
+![Default Nmap Scan](assets/markdown_images/BoardLightMedia/Pasted image 20240605004604.png)
 ### Nmap service Scan - 
 ![[Pasted image 20240605004941.png]]
 ### Nmap All ports - 
