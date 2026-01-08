@@ -3,7 +3,7 @@ layout: post
 title: BroadLight
 date: 2026-01-05 21:02 -0700
 categories: [Hack The Box, Retired Machine]
-tags: [htb]
+tags: [htb,dolibarr,SUID]
 ---
 # Enumeration 
 
